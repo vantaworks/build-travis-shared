@@ -1,7 +1,4 @@
 ---
-language: python
-services: docker
-
 env:
   matrix:
     - MOLECULE_DISTRO: centos8
